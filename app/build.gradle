@@ -86,5 +86,7 @@ dependencies {
     implementation("androidx.room:room-ktx:$vRoom")
     testImplementation("androidx.room:room-testing:$vRoom")
 
+    //Navigation
+    implementation "androidx.navigation:navigation-compose:$vNavigation"
 
 }

@@ -8,6 +8,7 @@ buildscript {
         vCoroutines = '1.6.0-native-mt'
         vGson = '2.8.9'
         vRoom = '2.4.0'
+        vNavigation = '2.6.0-alpha03'
     }
     dependencies {
         classpath "com.google.dagger:hilt-android-gradle-plugin:2.40"
